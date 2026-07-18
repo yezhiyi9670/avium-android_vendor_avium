@@ -36,7 +36,6 @@ PRODUCT_PACKAGES += \
     AviumUseful \
     MoonWidget \
     CatShareForAvium \
-    Via \
     AviumSetup \
     AviumLockscreenEdit \
     AviumSystemUIEX \
@@ -46,7 +45,6 @@ PRODUCT_PACKAGES += \
     AviumFreeWindow \
     AviumLyricBarCore \
     ColumbusService \
-    Starmoment \
     ScreenshotEdit
 
 # Updater
